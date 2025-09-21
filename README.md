@@ -12,10 +12,12 @@ Use-cases where this may be useful include:
 
 I don't plan to put this on PyPI unless it gains traction, to avoid cluttering the namespace there.
 
-Instead, you can install the latest version [`v0.0.1`] with pip directly from github;
+Instead, you can install the latest version [`v0.0.1b`] with pip directly from github;
 ```bash
-pip install git+https://github.com/LukeRoantree4815162342/TolerantFloat@v0.0.1
+pip install git+https://github.com/LukeRoantree4815162342/TolerantFloat@v0.0.1b
 ```
+
+##### Dependencies: None
 
 ### TolerantFloat class
 

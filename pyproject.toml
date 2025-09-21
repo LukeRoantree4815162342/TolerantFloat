@@ -85,5 +85,8 @@ quote-style = "double"
 indent-style = "space"
 
 [build-system]
-requires = ["setuptools >= 77.0.3"]
+requires = [
+    "setuptools >= 77.0.3",
+    "wheel"
+]
 build-backend = "setuptools.build_meta"

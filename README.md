@@ -21,7 +21,7 @@ pip install git+https://github.com/LukeRoantree4815162342/TolerantFloat@v0.0.1b
 
 ### TolerantFloat class
 
-```bash
+```python
 from tolerant_float import TolerantFloat
 ```
 

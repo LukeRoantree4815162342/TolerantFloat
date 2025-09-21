@@ -21,6 +21,10 @@ pip install git+https://github.com/LukeRoantree4815162342/TolerantFloat@v0.0.1b
 
 ### TolerantFloat class
 
+```bash
+from tolerant_float import TolerantFloat
+```
+
 A `TolerantFloat` instance of value `5.34` and tolerance `1e-5` can be created as
 ```python
 a = TolerantFloat(5.34, tol=5)
